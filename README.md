@@ -8,7 +8,7 @@ VALMIUSASTE
 Valmis 100 %. 
 
 CREDITS
-Kiitos kärsivällisyydestä kurssin opettajalle Jussi Pohjalaiselle sekä kurssikaverilleni Katariina Pohdolle. 
+Kiitos kärsivällisyydestä kurssin opettajalle Jussi Pohjalaiselle (https://github.com/pohjus) sekä kurssikaverilleni Katariina Pohdolle (https://github.com/atarnia). 
 
 
 
